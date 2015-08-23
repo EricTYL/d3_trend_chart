@@ -1,2 +1,13 @@
-1. Run a local server first, ex: $ python -m SimpleHTTPServer. Otherwise, you'll get error from browsers cause they take this as cross sites attacks.
-2. Type local server's url in a browser to see the chart. ex: http://localhost:8000 if you open a local server with python command above.
+Source from here: http://bl.ocks.org/rkirsling/33a9e350516da54a5d4f
+
+1. Run a local server first.
+2. Type local server's url in a browser to see the chart.
+
+ex:
+
+1. Go to the project directory and run server by code below.
+$ python -m SimpleHTTPServer
+
+2. Open a browser and type the url below.
+http://localhost:8000
+
